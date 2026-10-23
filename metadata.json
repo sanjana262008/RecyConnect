@@ -1,0 +1,6 @@
+{
+  "name": "RecyConnect",
+  "description": "A platform connecting industries selling plastic waste with recyclers looking for reusable plastic materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
